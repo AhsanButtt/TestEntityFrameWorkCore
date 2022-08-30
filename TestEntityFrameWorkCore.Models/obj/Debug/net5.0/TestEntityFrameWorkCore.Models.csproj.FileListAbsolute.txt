@@ -1,0 +1,15 @@
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\TestEntityFrameWorkCore.Models.deps.json
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\TestEntityFrameWorkCore.Models.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\ref\TestEntityFrameWorkCore.Models.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\TestEntityFrameWorkCore.Models.pdb
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\TestEntityFrameWorkCore.Common.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\bin\Debug\net5.0\TestEntityFrameWorkCore.Common.pdb
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.csproj.AssemblyReference.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.AssemblyInfoInputs.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.AssemblyInfo.cs
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.csproj.CopyComplete
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\ref\TestEntityFrameWorkCore.Models.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Models\obj\Debug\net5.0\TestEntityFrameWorkCore.Models.pdb

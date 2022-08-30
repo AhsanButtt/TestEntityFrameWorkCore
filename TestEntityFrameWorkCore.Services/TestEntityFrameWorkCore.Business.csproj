@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestEntityFrameWorkCore.Common\TestEntityFrameWorkCore.Common.csproj" />
+    <ProjectReference Include="..\TestEntityFrameWorkCore.Data\TestEntityFrameWorkCore.Data.csproj" />
+    <ProjectReference Include="..\TestEntityFrameWorkCore.Models\TestEntityFrameWorkCore.Models.csproj" />
+  </ItemGroup>
+
+</Project>

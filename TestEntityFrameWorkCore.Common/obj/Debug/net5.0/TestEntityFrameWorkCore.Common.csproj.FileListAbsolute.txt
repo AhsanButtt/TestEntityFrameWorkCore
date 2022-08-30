@@ -1,0 +1,12 @@
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\bin\Debug\net5.0\TestEntityFrameWorkCore.Common.deps.json
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\bin\Debug\net5.0\TestEntityFrameWorkCore.Common.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\bin\Debug\net5.0\ref\TestEntityFrameWorkCore.Common.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\bin\Debug\net5.0\TestEntityFrameWorkCore.Common.pdb
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.csproj.AssemblyReference.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.AssemblyInfoInputs.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.AssemblyInfo.cs
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\ref\TestEntityFrameWorkCore.Common.dll
+C:\Users\Ahsan Butt\source\repos\TestEntityFrameWorkCore\TestEntityFrameWorkCore.Common\obj\Debug\net5.0\TestEntityFrameWorkCore.Common.pdb
